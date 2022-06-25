@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/Tim/Documents/GitHub/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name esp-irrigation)(type KiCad)(uri ${KIPRJMOD}/esp-irrigation.pretty)(options "")(descr ""))
+)

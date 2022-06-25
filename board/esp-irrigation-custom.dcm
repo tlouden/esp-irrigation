@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP01_Header
+D Socket for ESP01 board
+K connector
+F ~
+$ENDCMP
+#
+$CMP SMDA36-7
+D TVS Array 300W
+F https://www.smc-diodes.com/propdf/SMDA03-7%20THRU%20SMDA36-7%20N0296%20REV.C.pdf
+$ENDCMP
+#
+#End Doc Library

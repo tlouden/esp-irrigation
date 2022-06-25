@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name dk_Diodes-Rectifiers-Single)(type Legacy)(uri C:/Users/Tim/OneDrive/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_Diodes-Rectifiers-Single.lib)(options "")(descr ""))
+  (lib (name dk_Fixed-Inductors)(type Legacy)(uri C:/Users/Tim/OneDrive/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_Fixed-Inductors.lib)(options "")(descr ""))
+  (lib (name dk_Specialized-ICs)(type Legacy)(uri C:/Users/Tim/OneDrive/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_Specialized-ICs.lib)(options "")(descr ""))
+  (lib (name dk_Thyristors-TRIACs)(type Legacy)(uri C:/Users/Tim/OneDrive/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_Thyristors-TRIACs.lib)(options "")(descr ""))
+  (lib (name dk_TVS-Diodes)(type Legacy)(uri C:/Users/Tim/OneDrive/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_TVS-Diodes.lib)(options "")(descr ""))
+  (lib (name dk_TVS-Mixed-Technology)(type Legacy)(uri C:/Users/Tim/OneDrive/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_TVS-Mixed-Technology.lib)(options "")(descr ""))
+  (lib (name esp-irrigation-custom)(type Legacy)(uri ${KIPRJMOD}/esp-irrigation-custom.lib)(options "")(descr ""))
+)
